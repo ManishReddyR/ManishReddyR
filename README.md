@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Manish Reddy Rakasi
+
+- Master's Student @ Indiana University Bloomington
+- Research Assistant @ Indiana University Bloomington
+- Interests: Data Science, Machine Learning, Computer Graphics
+
+## Tech Stack
+- Programming Languages: Python | C | Java | HTML | C#
+- Libraries: TensorFlow | PyTorch | NumPy | Matplotlib | Scikit-Learn | CV2 | DIPY | Seaborn
+- Query Languages: SQL | Cypher
+- Technologies/Frameworks: Git | GitHub | Spring Boot | Spark | Docker
+- Developer Tools: Visual Studio |Visual Studio Code| Jupyter Notebook | MATLAB | AutoCAD | Unity | | Tableau | Power BI
 
 <!--
 **ManishReddyR/ManishReddyR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
