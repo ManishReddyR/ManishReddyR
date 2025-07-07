@@ -5,11 +5,14 @@
 - Interests: Data Science, Machine Learning, Computer Graphics
 
 ## Tech Stack
-- Programming Languages: Python | C | Java | HTML | C#
-- Libraries: TensorFlow | PyTorch | NumPy | Matplotlib | Scikit-Learn | CV2 | DIPY | Seaborn
-- Query Languages: SQL | Cypher
-- Technologies/Frameworks: Git | GitHub | Spring Boot | Spark | Docker
-- Developer Tools: Visual Studio |Visual Studio Code| Jupyter Notebook | MATLAB | AutoCAD | Unity | | Tableau | Power BI
+• Programming Languages: Python, C, Java, C#, SQL, HTML
+• ML & AI: TensorFlow, PyTorch, keras, Scikit-Learn, LangChain, FAISS, RAG, Hugging Face Transformers
+• Data Science & Analysis: NumPy, Pandas, OpenCV, Spark (PySpark), MATLAB, STFT, KPI
+• Statistical Methods: Hypothesis Testing, Regression Analysis, Probability, EDA, Model Fit Testing
+• VisualizaCon: Matplotlib, Seaborn, Tableau, Power BI, Streamlit
+• Frameworks & Tools: Git/GitHub, Docker, Spring Boot, Unity, VS Code, Excel
+• Databases: SQL, PostgreSQL, Neo4j (Cypher), ERD modeling
+• Cloud & APIs: AWS, Jetstream, REST APIs, Groq API, FastAPI
 
 <!--
 **ManishReddyR/ManishReddyR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
