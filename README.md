@@ -1,11 +1,12 @@
 # Hi there 👋, I'm Manish Reddy Rakasi
 
-- Master's Student @ Indiana University Bloomington
+- AI Software Engineer Intern- Folia
 - Research Assistant @ Indiana University Bloomington
-- Interests: Data Science, Machine Learning, Computer Graphics
+- Master's Student @ Indiana University Bloomington
+- Interests: Software Development, Applied Machine Learning, Data Analytics, Computer Graphics
 
 ## Tech Stack
-- Programming Languages: Python, C, Java, C#, SQL, HTML
+- Programming Languages: Python, Java, Javascript, C, C#, SQL, HTML
 - ML & AI: TensorFlow, PyTorch, keras, Scikit-Learn, LangChain, FAISS, RAG, Hugging Face Transformers
 - Data Science & Analysis: NumPy, Pandas, OpenCV, Spark (PySpark), MATLAB, STFT, KPI
 - Statistical Methods: Hypothesis Testing, Regression Analysis, Probability, EDA, Model Fit Testing
