@@ -1,32 +1,87 @@
-# Hi there 👋, I'm Manish Reddy Rakasi
+<p align="center">
+  <h1 align="center">Hi 👋, I'm Manish Reddy Rakasi</h1>
+  <h3 align="center">🚀 Software Engineer (AI) | 🎓 Master's Student @ Indiana University Bloomington</h3>
+</p>
 
-- AI Software Engineer Intern- Folia
-- Research Assistant @ Indiana University Bloomington
-- Master's Student @ Indiana University Bloomington
-- Interests: Software Development, Applied Machine Learning, Data Analytics, Computer Graphics
+<p align="center">
+  <a href="https://github.com/ManishReddyR">
+    <img src="https://img.shields.io/github/followers/ManishReddyR?label=Followers&style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ManishReddyR&style=for-the-badge" />
+</p>
 
-## Tech Stack
-- Front-End & Visualization Systems: Vue 3, pdf.js, Skia/CanvasKit, WebGPU, WebGL
-- Programming Languages: Python, Java, C/C++, C#, SQL, JavaScript (Vue 3, Node.js basics), HTML/CSS
-- ML & AI:  PyTorch, TensorFlow, Keras, Scikit-Learn, LangChain, Hugging Face, RAG Pipelines, OpenAI API
-- Data Engineering: PySpark (Spark SQL), Pandas, NumPy, ETL Pipelines, REST APIs, KPI Tracking
-- Deep Learning & Generative AI: CNNs, Transformers, GNNs, GANs, Autoencoders, Embeddings, Fine-tuning LLMs
-- Visualization & BI: Matplotlib, Seaborn, Tableau, Power BI , Streamlit
-- MLOps & DevOps: Git, GitHub, Docker, CI/CD, FastAPI, IDE extensions / developer tooling
-- Databases: PostgreSQL, MySQL, SQLite, MongoDB, Neo4j (Cypher
-- Cloud & Infrastructure: AWS (EC2, S3, VPC), SSH, Jetstream (HPC), Linux, Dockerized Environments
+---
 
-<!--
-**ManishReddyR/ManishReddyR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me  
 
-Here are some ideas to get you started:
+<p align="center">
+I build intelligent, scalable systems at the intersection of  
+<b>Software Engineering, Applied Machine Learning, and Visualization Systems.</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Focused on production-grade AI systems, RAG pipelines, and high-performance rendering architectures.
+</p>
+
+---
+
+# 💼 Experience  
+
+### Software Engineer (AI) — Folia  
+
+### Software Developer — Indiana University Bloomington  
+
+### Software/Data Engineer - Technomore Solutions Pvt Ltd
+
+---
+
+# ⚡ Tech Stack  
+
+### 🧑‍💻 Programming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,css,sql" />
+</p>
+
+### 🤖 ML & AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<p align="center">
+PyTorch • TensorFlow • Keras • Scikit-Learn • LangChain • HuggingFace  
+RAG Pipelines • OpenAI API • Transformers • GNNs • GANs • LLM Fine-tuning
+</p>
+
+### 🎨 Front-End & Visualization
+<p align="center">
+Vue 3 • WebGPU • WebGL • Skia / CanvasKit • pdf.js
+</p>
+
+### 📊 Data Engineering
+<p align="center">
+PySpark • Pandas • NumPy • ETL Pipelines • REST APIs • KPI Tracking
+</p>
+
+### 🗄 Databases
+<p align="center">
+PostgreSQL • MySQL • SQLite • MongoDB • Neo4j
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+AWS (EC2, S3, VPC) • Docker • CI/CD • FastAPI • Linux • Jetstream HPC
+</p>
+
+
+# 🔍 Interests  
+
+<p align="center">
+Applied Machine Learning • Generative AI •  
+Scalable AI Infrastructure • Computer Graphics • Data Systems
+</p>
+
+---
+
+<p align="center">
+  💡 <i>Engineering intelligent systems that scale.</i>
+</p>
